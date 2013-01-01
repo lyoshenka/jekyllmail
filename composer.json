@@ -1,0 +1,12 @@
+{
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "http://github.com/ornicar/php-git-repo"
+    }
+  ],
+  "require": {
+    "ornicar/php-git-repo": "master"
+  }
+}

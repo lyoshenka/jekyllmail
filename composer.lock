@@ -1,0 +1,58 @@
+{
+    "hash": "95d9b89bf09e28f2b93f6021a6bd4241",
+    "packages": [
+        {
+            "name": "ornicar/php-git-repo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "http://github.com/ornicar/php-git-repo",
+                "reference": "3763cf01eb5dec7b796b79ba27daf7ce68c97844"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ornicar/php-git-repo/zipball/3763cf01eb5dec7b796b79ba27daf7ce68c97844",
+                "reference": "3763cf01eb5dec7b796b79ba27daf7ce68c97844",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2"
+            },
+            "time": "2012-12-18 22:55:24",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-0": {
+                    "PHPGit_": "lib/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Thibault Duplessis",
+                    "email": "thibault.duplessis@gmail.com",
+                    "homepage": "http://ornicar.github.com"
+                }
+            ],
+            "description": "An object oriented wrapper to run any Git command",
+            "homepage": "https://github.com/ornicar/php-git-repo",
+            "keywords": [
+                "git"
+            ],
+            "support": {
+                "source": "https://github.com/ornicar/php-git-repo/tree/master",
+                "issues": "https://github.com/ornicar/php-git-repo/issues"
+            }
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ]
+}
